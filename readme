@@ -1,0 +1,12 @@
+・概要
+PandemicOnline用のサーバプログラムです。
+python3.xで動きます。
+
+・設定
+PandemicServer.pyの91行目にある
+address = ('112.34.21.12', 31526)
+を各環境にあわせて変更してください。
+
+・実行
+PandemicServer.pyを実行してください。
+
